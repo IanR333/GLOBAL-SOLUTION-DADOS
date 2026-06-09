@@ -1,4 +1,4 @@
-# Explicação da Lógica — Mission Control AI
+# Explicação da Lógica — Mission Control 
 ## GS2026.1 — Data Structures and Algorithms | FIAP
 
 **Integrantes:**
